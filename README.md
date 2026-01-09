@@ -1,8 +1,3 @@
-<table>
-  <tr>
-    <!-- LADO ESQUERDO (TEXTO) -->
-    <td width="70%" valign="top">
-
 # 🧑🏻‍💻☕ Vinícius Gabriel
 
 **`Desenvolvedor Full-Cycle`**
@@ -17,13 +12,7 @@ utilizando tecnologias como Spring, e dei continuidade aos meus
 
 🔗 Confira meu **[Portfólio](https://viniciusgabriel.netlify.app/)**
 
-</td>
-
-<td width="30%" align="center" valign="middle">
-    <img src="Vinicius.gif" width="200"/>
-</td>
-  </tr>
-</table>
+<img src="Vinicius.gif" width="200"/>
 <p align="left">
     <a href="https://wa.me/5581985832291?">
         <img 
