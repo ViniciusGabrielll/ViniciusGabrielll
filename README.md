@@ -12,7 +12,6 @@ utilizando tecnologias como Spring, e dei continuidade aos meus
 
 🔗 Confira meu **[Portfólio](https://viniciusgabriel.netlify.app/)**
 
-<img src="Vinicius.gif" width="200"/>
 <p align="left">
     <a href="https://wa.me/5581985832291?">
         <img 
